@@ -21,7 +21,6 @@
 
 ## Blogs
 
-[Marius Schulz](https://mariusschulz.com/)
 
 ## Architecture
 
