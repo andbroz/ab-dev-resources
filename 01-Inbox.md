@@ -19,9 +19,6 @@
 
 [Real-time ASP.NET with SignalR | .NET](https://dotnet.microsoft.com/apps/aspnet/signalr)
 
-## Blogs
-
-
 ## Architecture
 
 [Designing a DDD-oriented microservice | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
