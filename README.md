@@ -4,6 +4,10 @@
 
 - [Blogs](BLOGS.md)
 
+## Reading now
+
+- [Reading now](READING-NOW.md)
+
 ## JavaScript/TypeScript
 
 ## React
